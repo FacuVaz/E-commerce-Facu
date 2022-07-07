@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    background-color: blueviolet;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
